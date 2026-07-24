@@ -2,8 +2,8 @@
 
 ### Manual QA Tester | Web & Mobile Testing | REST API | SQL | Playwright
 
-> *Rerum cognoscere causas et valorem*
-> *To know and understand the essence of things.*
+>  *Rerum cognoscere causas et valorem*  
+>  *To know and understand the essence of things.*
 
 I have **three years of hands-on testing experience** gained through professional training, team projects and independent QA projects.
 

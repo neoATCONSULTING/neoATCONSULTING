@@ -77,10 +77,9 @@ Public Postman collection demonstrating REST API testing.
 
 My portfolio contains selected case studies, test documentation, execution evidence, defect examples and UI automation results.
 
-**[Open my QA portfolio](ADD_PUBLIC_PORTFOLIO_LINK_HERE)**
+**[Open my QA portfolio]** https://drive.google.com/file/d/1e4aWzTqu_uiD1sTHasFAOHtydl0G0bJS/view?usp=sharing
 
 ## Contact
 
 * [LinkedIn](https://www.linkedin.com/in/adam-truszkowski-qa)
-* [GitHub](https://github.com/neoATCONSULTING)
 * Email: [qa.adam.truszkowski@gmail.com](mailto:qa.adam.truszkowski@gmail.com)
